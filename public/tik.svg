@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17 17" width="17" height="17">
+	<title>insta-svg</title>
+	<defs>
+		<image  width="13" height="14" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAAOCAMAAADDoWbgAAAAAXNSR0IB2cksfwAAANJQTFRFAAAA6urq+Pj42NjY7+/v////6enppaWl/Pz85eXlnZ2d9vb23d3dh4eHg4OD/f396urq9PT06urqh4eHl5eX6Ojo8PDw5+fn+vr60tLSs7Oz5ubm5OTklJSU5+fn/v7+7u7u4uLi/Pz84uLiurq67u7u5OTk7+/v3d3dioqK7+/v+fn5z8/P6urq8/Pzx8fHoqKi09PT9/f39/f3wsLCwMDA9/f37+/v8fHx+Pj47u7ulpaW1NTU9fX1+vr67+/vwsLCtLS08/Pz8vLy4uLioKCgn/a2YAAAAEZ0Uk5TAKT3fKX/vRX6mQ7pgwEB/NzsrwIPheLd93AUVksMvv7oiOZgN9Vp4FUBsvVmrrsfDkrr6D0/6da18akHXdb2uiUgaXVVC5WU/usAAACESURBVHicY2QAA0ZGxr8gCsJjAXJ/IvGYGRm/IXgMDGxAeRCb7xMLNyPjF14gTwQo9JIFRDJ+ZJRlZHwm/QDIew4yU/EfUP8dGE/1geItoClQnvo95RsMmkBNV0A83RsgJhCcAfFMGc8bAZmmjEfBLrNhfPTMkpHxAAPEnY4gdbvBTgIALNQcPH5Rb8sAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+	</style>
+	<use id="Layer 1" href="#img1" x="2" y="2"/>
+</svg>
